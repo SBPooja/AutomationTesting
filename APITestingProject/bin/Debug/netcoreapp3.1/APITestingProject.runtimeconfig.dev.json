@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mindtreejanedge232\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mindtreejanedge232\\.nuget\\packages"
+    ]
+  }
+}
